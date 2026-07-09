@@ -1,0 +1,6 @@
+{
+  "name": "BookMyCricBox",
+  "description": "Official company website for BookMyCricBox, a premium cricket turf and ground slot booking platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
